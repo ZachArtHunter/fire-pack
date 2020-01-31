@@ -1,1 +1,1 @@
-# fragglecraft-packs
+# resourepack
