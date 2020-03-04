@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "items/cauldron"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/113/cauldron" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/fire/world/trashcan" }
+	]
+}
