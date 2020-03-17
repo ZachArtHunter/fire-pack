@@ -1,0 +1,29 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/diamond_axe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/113/diamond_axe" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/fire/world/o" },
+		{ "predicate": { "damaged": 0, "damage": 0.000640614990391 }, "model": "item/fire/world/o" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/fire/world/o" },
+		{ "predicate": { "damaged": 0, "damage": 0.001281229980782 }, "model": "item/fire/world/o" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/fire/world/o" },
+		{ "predicate": { "damaged": 0, "damage": 0.001921844971172  }, "model": "item/fire/world/o" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/fire/world/o" },
+		{ "predicate": { "damaged": 0, "damage": 0.002562459961562  }, "model": "item/fire/world/o" },
+
+		{ "predicate": { "custom_model_data": 500}, "model": "item/fire/world/ore/minednode" },
+		{ "predicate": { "damaged": 0, "damage": 0.320307495195387  }, "model": "item/fire/world/ore/minednode" },
+		{ "predicate": { "custom_model_data": 501}, "model": "item/fire/world/ore/coalnode" },
+		{ "predicate": { "damaged": 0, "damage": 0.320948110185778  }, "model": "item/fire/world/ore/coalnode" },
+		{ "predicate": { "custom_model_data": 502}, "model": "item/fire/world/ore/coppernode" },
+		{ "predicate": { "damaged": 0, "damage": 0.321588725176169  }, "model": "item/fire/world/ore/coppernode" },
+		{ "predicate": { "custom_model_data": 503}, "model": "item/fire/world/ore/ironnode" },
+		{ "predicate": { "damaged": 0, "damage": 0.322229340166559  }, "model": "item/fire/world/ore/ironnode" },
+
+		{ "predicate": { "damaged": 1 }, "model": "item/diamond_axe" },
+		{ "predicate": { "damaged": 1, "custom_model_data": 0 }, "model": "item/113/diamond_axe" }
+	]
+}
