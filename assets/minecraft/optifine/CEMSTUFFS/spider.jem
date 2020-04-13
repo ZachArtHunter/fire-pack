@@ -1,0 +1,83 @@
+{
+	"textureSize": [64, 32],
+	"models":
+  [
+	{
+      "model": "spiderling_head.jpm",
+      "part": "head", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [0, -9, 3]
+    },
+	{
+      "model": "spiderling_neck.jpm",
+      "part": "neck", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [0, -9, 0]
+    },
+	{
+      "model": "spiderling_body.jpm",
+      "part": "body", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [0, -9, -9]
+    },
+	{
+      "model": "spiderling_leg1.jpm",
+      "part": "leg1", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [-4, -9, -4]
+	},
+	{
+      "model": "spiderling_leg2.jpm",
+      "part": "leg2", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [4, -9, -4]
+	},
+	{
+      "model": "spiderling_leg3.jpm",
+      "part": "leg3", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [-4, -9, -1]
+	},
+	{
+      "model": "spiderling_leg4.jpm",
+      "part": "leg4", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [4, -9, -1]
+	},
+	{
+      "model": "spiderling_leg5.jpm",
+      "part": "leg5", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [-4, -9, 2]
+	},
+	{
+      "model": "spiderling_leg6.jpm",
+      "part": "leg6", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [4, -9, 2]
+	},
+	{
+      "model": "spiderling_leg7.jpm",
+      "part": "leg7", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [-4, -9, 5]
+	},
+	{
+      "model": "spiderling_leg8.jpm",
+      "part": "leg8", 
+      "attach": true,
+	  "invertAxis": "xy",
+	  "translate": [4, -9, 5]
+	}
+   ]
+}

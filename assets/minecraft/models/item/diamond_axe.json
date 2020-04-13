@@ -5,14 +5,19 @@
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 0}, "model": "item/113/diamond_axe" },
-		{ "predicate": { "custom_model_data": 1}, "model": "item/fire/world/o" },
-		{ "predicate": { "damaged": 0, "damage": 0.000640614990391 }, "model": "item/fire/world/o" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/fire/world/o" },
-		{ "predicate": { "damaged": 0, "damage": 0.001281229980782 }, "model": "item/fire/world/o" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/fire/world/trash_can" },
+		{ "predicate": { "damaged": 0, "damage": 0.000640614990391 }, "model": "item/fire/world/trash_can" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/fire/world/training_dummy" },
+		{ "predicate": { "damaged": 0, "damage": 0.001281229980782 }, "model": "item/fire/world/training_dummy" },
 		{ "predicate": { "custom_model_data": 3}, "model": "item/fire/world/o" },
 		{ "predicate": { "damaged": 0, "damage": 0.001921844971172  }, "model": "item/fire/world/o" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/fire/world/o" },
 		{ "predicate": { "damaged": 0, "damage": 0.002562459961562  }, "model": "item/fire/world/o" },
+
+		{ "predicate": { "custom_model_data": 100}, "model": "item/fire/world/daves_axe" },
+		{ "predicate": { "damaged": 0, "damage": 0.064061499039077  }, "model": "item/fire/world/daves_axe" },
+		{ "predicate": { "custom_model_data": 101}, "model": "item/fire/world/spider_gem" },
+		{ "predicate": { "damaged": 0, "damage": 0.064702114029468  }, "model": "item/fire/world/spider_gem" },
 
 		{ "predicate": { "custom_model_data": 500}, "model": "item/fire/world/ore/minednode" },
 		{ "predicate": { "damaged": 0, "damage": 0.320307495195387  }, "model": "item/fire/world/ore/minednode" },
