@@ -1,0 +1,8 @@
+{
+	"credit": "Zach Hunter",
+	"parent": "minecraft:item/fire/icons/base_gui",
+	"textures": {
+		"background": "fire/icons/light_background",
+		"icon": "fire/icons/filler_icon"
+	}
+}

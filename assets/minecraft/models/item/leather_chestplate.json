@@ -1,0 +1,16 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/leather_chestplate"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/113/leather_chestplate" },
+		{ "predicate": { "custom_model_data": 76}, "model": "item/fire/hat/white_face_mask" },
+		{ "predicate": { "damaged": 0, "damage": 0.95 }, "model": "item/fire/hat/white_face_mask" },
+		{ "predicate": { "custom_model_data": 77}, "model": "item/fire/hat/fc_face_mask" },
+		{ "predicate": { "damaged": 0, "damage": 0.9625 }, "model": "item/fire/hat/fc_face_mask" },
+
+		{ "predicate": { "damaged": 1 }, "model": "item/leather_chestplate" },
+		{ "predicate": { "damaged": 1, "custom_model_data": 0 }, "model": "item/113/leather_chesplate" }
+	]
+}

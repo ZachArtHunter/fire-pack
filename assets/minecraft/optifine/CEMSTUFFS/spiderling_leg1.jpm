@@ -1,4 +1,5 @@
 {
+  	"texture": "textures/entity/spiderling/spiderling",
 	"textureSize": [64, 32],
 	"credit": "Made with Blockbench",
 	"boxes": [

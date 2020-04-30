@@ -1,0 +1,16 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/diamond_chestplate"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/113/diamond_chestplate" },
+		{ "predicate": { "custom_model_data": 496}, "model": "item/fire/hat/white_face_mask" },
+		{ "predicate": { "damaged": 0, "damage": 0.939393939393939 }, "model": "item/fire/hat/white_face_mask" },
+		{ "predicate": { "custom_model_data": 497}, "model": "item/fire/hat/fc_face_mask" },
+		{ "predicate": { "damaged": 0, "damage": 0.941287878787878 }, "model": "item/fire/hat/fc_face_mask" },
+
+		{ "predicate": { "damaged": 1 }, "model": "item/diamond_chestplate" },
+		{ "predicate": { "damaged": 1, "custom_model_data": 0 }, "model": "item/113/diamond_chesplate" }
+	]
+}

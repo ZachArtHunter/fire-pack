@@ -1,0 +1,161 @@
+{
+  "shadowSize": 0.2,
+	"textureSize": [64, 32],
+	"models":
+  [
+	{
+      "model": "spiderling_head.jpm",
+      "part": "head", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4",
+					"this.oz": "0.145"
+                }
+            ]
+    },
+	{
+      "model": "spiderling_neck.jpm",
+      "part": "neck", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4"
+                }
+            ]
+    },
+	{
+      "model": "spiderling_body.jpm",
+      "part": "body", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4",
+					"this.oz": "-0.425"
+					
+                }
+            ]
+    },
+	{
+      "model": "spiderling_leg1.jpm",
+      "part": "leg1", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4",
+					"this.ox": "0.165"
+                }
+            ]
+	},
+	{
+      "model": "spiderling_leg2.jpm",
+      "part": "leg2", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4",
+					"this.ox": "-0.165"
+                }
+            ]
+	},
+	{
+      "model": "spiderling_leg3.jpm",
+      "part": "leg3", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4",
+					"this.ox": "0.165"
+                }
+            ]
+	},
+	{
+      "model": "spiderling_leg4.jpm",
+      "part": "leg4", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4",
+					"this.ox": "-0.165"
+                }
+				]
+	},
+	{
+      "model": "spiderling_leg5.jpm",
+      "part": "leg5", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4",
+					"this.ox": "0.165"
+                }
+				]
+	},
+	{
+      "model": "spiderling_leg6.jpm",
+      "part": "leg6", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4",
+					"this.ox": "-0.165"
+                }
+				]
+	},
+	{
+      "model": "spiderling_leg7.jpm",
+      "part": "leg7", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4",
+					"this.ox": "0.165"
+                }
+				]
+	},
+	{
+      "model": "spiderling_leg8.jpm",
+      "part": "leg8", 
+      "attach": false,
+            "animations": [
+                {
+					"this.sx": "0.25",
+					"this.sy": "0.25",
+					"this.sz": "0.25",
+					"this.oy": "0.4",
+					"this.ox": "-0.165"
+                }
+            ]
+	}
+   ]
+}

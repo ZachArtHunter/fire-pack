@@ -1,0 +1,32 @@
+{
+	"credit": "Zach Hunter",
+	"textures": {
+		"0": "#background",
+		"1": "#icon"
+	},
+	"elements": [
+		{
+			"name": "background",
+			"from": [-1, 0, -1],
+			"to": [17, 0, 17],
+			"shade": false,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "icon",
+			"from": [0, 1, 0],
+			"to": [16, 1, 16],
+			"shade": false,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0]
+		}
+	}
+}

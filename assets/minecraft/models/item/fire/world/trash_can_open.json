@@ -1,0 +1,7 @@
+{
+	"credit": "Zach Hunter",
+	"parent": "minecraft:item/fire/world/trash_can_base",
+	"textures": {
+		"trash_can": "fire/world/trash_can_open"
+	}
+}
