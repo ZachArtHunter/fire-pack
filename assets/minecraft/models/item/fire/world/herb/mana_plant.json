@@ -1,0 +1,7 @@
+{
+	"credit": "No_osk",
+	"parent": "minecraft:item/fire/world/herb/plant_base",
+	"textures": {
+		"plant": "fire/world/herb/mana_plant"
+	}
+}
