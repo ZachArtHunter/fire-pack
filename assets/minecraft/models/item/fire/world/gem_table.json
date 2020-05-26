@@ -155,5 +155,11 @@
 				"down": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#7"}
 			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"translation": [0, -9, 0],
+			"scale": [2.78, 2.78, 2.78]
+		}
+	}
 }
