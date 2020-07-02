@@ -1,0 +1,8 @@
+{
+	"credit": "Zach Hunter",
+	"parent": "minecraft:item/fire/world/ore/basetestnode1",
+	"textures": {
+		"node_stone": "fire/world/ore/cobblestone",
+		"node_ore": "fire/world/ore/empty"
+	}
+}

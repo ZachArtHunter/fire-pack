@@ -5,15 +5,25 @@
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 0}, "model": "item/113/diamond_hoe" },
-		{ "predicate": { "custom_model_data": 1}, "model": "item/fire/weapons/pitchfork" },
-		{ "predicate": { "damaged": 0, "damage": 0.000640614990391 }, "model": "item/fire/weapons/pitchfork" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/fire/weapons/bandit_sword" },
-		{ "predicate": { "damaged": 0, "damage": 0.001281229980782 }, "model": "item/fire/weapons/bandit_sword" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/fire/weapons/warlord_hammer" },
-		{ "predicate": { "damaged": 0, "damage": 0.001921844971172 }, "model": "item/fire/weapons/warlord_hammer" },
-		{ "predicate": { "custom_model_data": 4}, "model": "item/fire/weapons/bandit_hammer" },
-		{ "predicate": { "damaged": 0, "damage": 0.002562459961563 }, "model": "item/fire/weapons/bandit_hammer" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/fire/equips/basic_ring" },
+		{ "predicate": { "damaged": 0, "damage": 0.000640614990391 }, "model": "item/fire/equips/basic_ring" },
+
+		{ "predicate": { "custom_model_data": 200}, "model": "item/fire/equips/basic_necklace" },
+		{ "predicate": { "damaged": 0, "damage": 0.128122998078155  }, "model": "item/fire/equips/basic_necklace" },
+
+		{ "predicate": { "custom_model_data": 300}, "model": "item/fire/equips/basic_amulet" },
+		{ "predicate": { "damaged": 0, "damage": 0.192184497117232  }, "model": "item/fire/equips/basic_amulet" },
+
+		{ "predicate": { "custom_model_data": 400}, "model": "item/fire/equips/basic_bag" },
+		{ "predicate": { "damaged": 0, "damage": 0.256245996156310  }, "model": "item/fire/equips/basic_bag" },
+		{ "predicate": { "custom_model_data": 401}, "model": "item/fire/equips/old_pouch" },
+		{ "predicate": { "damaged": 0, "damage": 0.256886611146700  }, "model": "item/fire/equips/old_pouch" },
+		{ "predicate": { "custom_model_data": 402}, "model": "item/fire/equips/modern_satchel" },
+		{ "predicate": { "damaged": 0, "damage": 0.257527226137091  }, "model": "item/fire/equips/modern_satchel" },
+		{ "predicate": { "custom_model_data": 403}, "model": "item/fire/equips/treasure_bag" },
+		{ "predicate": { "damaged": 0, "damage": 0.258167841127482  }, "model": "item/fire/equips/treasure_bag" },
+
 		{ "predicate": { "damaged": 1 }, "model": "item/diamond_hoe" },
-		{ "predicate": { "damaged": 1, "custom_model_data": 0}, "model": "item/113/diamond_hoe" }
+		{ "predicate": { "damaged": 1, "custom_model_data": 0 }, "model": "item/113/diamond_hoe" }
 	]
 }

@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "blocks/glass_brown"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/113/brown_stained_glass_pane" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/fire/icons/inventory/ring_slot" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/fire/icons/inventory/trinket_slot" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/fire/icons/inventory/necklace_slot" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/fire/icons/inventory/bag_slot" }
+	]
+}
