@@ -313,8 +313,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -7.25, 0],
-			"scale": [3.01, 3.01, 3.01]
+			"translation": [0, -19.2, 0],
+			"scale": [3, 3, 3]
 		}
 	},
 	"groups": [

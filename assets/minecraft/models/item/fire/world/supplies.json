@@ -247,7 +247,8 @@
 	],
 	"display": {
 		"head": {
-			"scale": [3, 3, 3]
+			"translation": [0, -27.2, 0],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [0,

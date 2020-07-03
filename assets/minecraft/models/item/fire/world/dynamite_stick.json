@@ -284,8 +284,7 @@
 	],
 	"display": {
 		"head": {
-			"rotation": [0, -26.25, 70.75],
-			"translation": [0, 18, 0],
+			"translation": [0, -11.5, 0],
 			"scale": [4, 4, 4]
 		}
 	},
