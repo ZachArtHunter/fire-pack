@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fire/weapons/wand/wand_core",
+		"1": "fire/weapons/wand/wand_rob"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 10, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 15]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 12], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 12], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 12], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 12], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 12, 7],
+			"to": [9, 14, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 20, 15]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#1"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#1"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#1"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#1"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#1"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [15, 0, 0],
+			"translation": [0, 2.5, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [15, 0, 0],
+			"translation": [0, 2.5, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-15, 0, 0]
+		},
+		"gui": {
+			"rotation": [25, 0, -45],
+			"translation": [0.75, 0.75, 0],
+			"scale": [1.31, 1.31, 1.31]
+		}
+	}
+}

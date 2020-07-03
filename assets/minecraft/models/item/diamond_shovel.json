@@ -1,0 +1,22 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/diamond_shovel"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/113/diamond_shovel" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/fire/weapons/wand/starter_wand" },
+		{ "predicate": { "damaged": 0, "damage": 0.000640614990391 }, "model": "item/fire/weapons/wand/starter_wand" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/fire/weapons/wand/wand_with_rob" },
+		{ "predicate": { "damaged": 0, "damage": 0.001281229980782 }, "model": "item/fire/weapons/wand/wand_with_rob" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/fire/weapons/wand/starter_wand" },
+		{ "predicate": { "damaged": 0, "damage": 0.001921844971172  }, "model": "item/fire/weapons/wand/starter_wand" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/fire/weapons/wand/starter_wand" },
+		{ "predicate": { "damaged": 0, "damage": 0.002562459961562  }, "model": "item/fire/weapons/wand/starter_wand" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/fire/weapons/wand/starter_wand" },
+		{ "predicate": { "damaged": 0, "damage": 0.003203074951953  }, "model": "item/fire/weapons/wand/starter_wand" },
+
+		{ "predicate": { "damaged": 1 }, "model": "item/diamond_shovel" },
+		{ "predicate": { "damaged": 1, "custom_model_data": 0 }, "model": "item/113/diamond_shovel" }
+	]
+}

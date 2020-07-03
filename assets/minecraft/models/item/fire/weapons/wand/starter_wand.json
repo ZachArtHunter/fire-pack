@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fire/weapons/wand/starter_wand"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 14, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 15]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 16], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 16], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 16], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 16], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [15, 0, 0],
+			"translation": [0, 2.5, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [15, 0, 0],
+			"translation": [0, 2.5, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-15, 0, 0]
+		},
+		"gui": {
+			"rotation": [25, 0, -45],
+			"translation": [0.75, 0.75, 0],
+			"scale": [1.31, 1.31, 1.31]
+		}
+	}
+}
