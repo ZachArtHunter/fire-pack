@@ -1,0 +1,40 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "items/rotten_flesh"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/113/rotten_flesh" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/fire/items/rotten_flesh/zombie/left_arm" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/fire/items/rotten_flesh/zombie/right_arm" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/fire/items/rotten_flesh/zombie/left_leg" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/fire/items/rotten_flesh/zombie/right_leg" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/fire/items/rotten_flesh/zombie/head" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/fire/items/rotten_flesh/basic_eye/1" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/fire/items/rotten_flesh/basic_eye/2" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/fire/items/rotten_flesh/basic_eye/3" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/fire/items/rotten_flesh/basic_eye/4" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/fire/items/rotten_flesh/slab_of_flesh/1" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/fire/items/rotten_flesh/slab_of_flesh/2" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/fire/items/rotten_flesh/slab_of_flesh/3" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/fire/items/rotten_flesh/slab_of_flesh/4" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/fire/items/rotten_flesh/slab_of_flesh/5" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/fire/items/rotten_flesh/slab_of_flesh/6" },
+		{ "predicate": { "custom_model_data": 16}, "model": "item/fire/items/rotten_flesh/basic_heart_1" },
+		{ "predicate": { "custom_model_data": 17}, "model": "item/fire/items/rotten_flesh/basic_heart_2" },
+		{ "predicate": { "custom_model_data": 18}, "model": "item/fire/items/rotten_flesh/basic_organ_1" },
+		{ "predicate": { "custom_model_data": 19}, "model": "item/fire/items/rotten_flesh/basic_organ_2" },
+		{ "predicate": { "custom_model_data": 20}, "model": "item/fire/items/rotten_flesh/basic_brain_1" },
+		{ "predicate": { "custom_model_data": 21}, "model": "item/fire/items/rotten_flesh/basic_brain_2" },
+		{ "predicate": { "custom_model_data": 22}, "model": "item/fire/items/rotten_flesh/basic_tongue_1" },
+		{ "predicate": { "custom_model_data": 23}, "model": "item/fire/items/rotten_flesh/basic_guts_1" },
+		{ "predicate": { "custom_model_data": 24}, "model": "item/fire/items/rotten_flesh/bear_paw_1" },
+		{ "predicate": { "custom_model_data": 25}, "model": "item/fire/items/rotten_flesh/bear_paw_2" },
+		{ "predicate": { "custom_model_data": 26}, "model": "item/fire/items/rotten_flesh/brown_fur_tail" },
+		{ "predicate": { "custom_model_data": 27}, "model": "item/fire/items/rotten_flesh/white_fur_tail" },
+		{ "predicate": { "custom_model_data": 28}, "model": "item/fire/items/rotten_flesh/wolf_paw" },
+		{ "predicate": { "custom_model_data": 29}, "model": "item/fire/items/rotten_flesh/scorpion_tail" },
+		{ "predicate": { "custom_model_data": 30}, "model": "item/fire/items/rotten_flesh/rat_tail" },
+		{ "predicate": { "custom_model_data": 31}, "model": "item/fire/items/rotten_flesh/lizard_tail" }
+	]
+}
