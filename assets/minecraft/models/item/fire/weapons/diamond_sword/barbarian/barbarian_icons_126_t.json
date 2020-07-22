@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "fire/weapons/diamond_sword/barbarian/barbarian_icons_126_t"
+	}
+}
